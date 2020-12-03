@@ -3,7 +3,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class ProductRule {
+public class BasicRules {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
